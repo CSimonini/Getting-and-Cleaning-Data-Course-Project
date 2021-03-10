@@ -18,7 +18,7 @@ The dataset includes the following files:
 
 - `test/y_test.txt`: Test labels.
 
-- 'train(or test)/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
+- `train(or test)/subject_train.txt`: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
 ## Working Script explanation:
 
